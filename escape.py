@@ -66,6 +66,9 @@ class Escape:
         self.sala3.close()    
         self.sala4.close()    
         self.sala5.close()    
-        self.final.close()    
+        self.final.close()
+        print("Arregão")
 
-Escape()
+
+if __name__ == "__main__":
+    Escape()
