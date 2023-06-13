@@ -60,14 +60,16 @@
    <widget class="QPushButton" name="btIniciar">
     <property name="geometry">
      <rect>
-      <x>260</x>
-      <y>540</y>
+      <x>270</x>
+      <y>550</y>
       <width>75</width>
       <height>23</height>
      </rect>
     </property>
     <property name="styleSheet">
-     <string notr="true">font: 12pt &quot;Ink Free&quot;;</string>
+     <string notr="true">font: 12pt &quot;Ink Free&quot;;
+background-color: white;
+border-radius: 10px;</string>
     </property>
     <property name="text">
      <string>Iniciar</string>

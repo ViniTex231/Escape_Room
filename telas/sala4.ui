@@ -73,7 +73,7 @@
      <string/>
     </property>
    </widget>
-   <widget class="QPushButton" name="btDesistir_2">
+   <widget class="QPushButton" name="btDesistir">
     <property name="geometry">
      <rect>
       <x>720</x>
@@ -81,6 +81,11 @@
       <width>75</width>
       <height>23</height>
      </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 12pt &quot;Ink Free&quot;;
+background-color: white;
+border-radius: 10px;</string>
     </property>
     <property name="text">
      <string>Desistir</string>
